@@ -1,0 +1,10 @@
+.idea
+#Backend
+backend-api/.mvn
+backend-api/HELP.md
+backend-api/mvnw.cmd
+backend-api/target
+
+#Frontend
+/gm-frontend/.next/
+/gm-frontend/node_modules/
