@@ -4,7 +4,9 @@ backend-api/.mvn
 backend-api/HELP.md
 backend-api/mvnw.cmd
 backend-api/target
+backend-api/mvnw
 
 #Frontend
-/gm-frontend/.next/
-/gm-frontend/node_modules/
+gm-frontend/.next/
+gm-frontend/node_modules/
+gm-frontend/README.md
